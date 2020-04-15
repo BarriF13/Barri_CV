@@ -12,7 +12,7 @@ I am a passionate software developer with the background in graphic design. I us
 As soon as I started learning to code I found myself excited and obsessed with it, so after 7 months of coding at home, I decided to join Makers academy to step up my challenges and knowledge.
 Now creating apps, debugging, finding solutions and stylings are my new tools.
 
-## Dev Projects
+## <a name="projects">Dev Projects</a>
 | Project   | Description | Link | Technologies |
 |---        |---          |---   |---           |
 | [mnemonic](https://github.com/BarriF13/mnemonic) | My final group project at Makers! A game app for training your short memory | https://mnemonic.herokuapp.com/ | Javascript, React, CSS, HTML |
