@@ -1,8 +1,12 @@
+# Barri #
 <div align="center">
+
   [About me](#about_me) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+
   </div>
+
 ## <a name="about_me">About me</a>
-## Barri
+
 I am a passionate software developer with the background in graphic design. I used to design websites with Adobe dreamweaver and CMS platform such as wordpress and wix, and eventually had to get into coding side of it to create more than they offer. That's why I decided by learning how to code push my limitations away.
 
 As soon as I started learning to code I found myself excited and obsessed with it, so after 7 months of coding at home, I decided to join Makers academy to step up my challenges and knowledge.
