@@ -13,6 +13,7 @@ As soon as I started learning to code I found myself excited and obsessed with i
 Now creating apps, debugging, finding solutions and stylings are my new tools.
 
 ## <a name="projects">Dev Projects</a>
+
 | Project   | Description | Link | Technologies |
 |---        |---          |---   |---           |
 | [mnemonic](https://github.com/BarriF13/mnemonic) | My final group project at Makers! A game app for training your short memory | https://mnemonic.herokuapp.com/ | Javascript, React, CSS, HTML |
