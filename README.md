@@ -83,7 +83,7 @@ Makers Academy is a 12-week computer programming bootcamp in London, focused on 
 -Figma
 -Invision
 
-## Hobbies
+## <a name="interests">Interests</a>
 
 Art, Dance, Gym, game, sewing, Hike, DIY
 
