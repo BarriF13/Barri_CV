@@ -7,9 +7,9 @@
 
 ## <a name="about_me">About me</a>
 
-I am a passionate software developer with the background in graphic design. I used to design websites with Adobe dreamweaver and CMS platform such as wordpress and wix, and eventually had to get into coding side of it to create more than they offer. That's why I decided by learning how to code push my limitations away.
+I am a passionate software developer with the background in graphic design. I used to design websites with Adobe dreamweaver and CMS platform such as wordpress and wix but I became frustrated with the restrictions of the the platforms and started to look into how to write my own custom code.
 
-As soon as I started learning to code I found myself excited and obsessed with it, so after 7 months of coding at home, I decided to join MakersAcademy to step up my challenges and knowledge.
+As soon as I started learning to code I found myself excited and obsessed with it, so after 7 months of self learning code , I decided to join MakersAcademy to improve my challenges and knowledge.
 Now creating apps, debugging, finding solutions and stylings are my new tools.
 
 ## <a name="skills">Tech Skills</a>
@@ -23,6 +23,7 @@ Now creating apps, debugging, finding solutions and stylings are my new tools.
 - PostGres, Travic CI, CodeClimate & Heroku
 
 #### Web/UI design Skill
+
 -Adobe XD /Figma /Invision
 -Adobe photoshop
 -Adobe Illustrator
