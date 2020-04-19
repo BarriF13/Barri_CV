@@ -16,7 +16,7 @@ Now creating apps, debugging, finding solutions and stylings are my new tools.
 - Javascript / React
 - Ruby / Rails
 -HTML / CSS/ Bootstrap
-  Tools I also used: 
+Tools I also used: 
 - Rspec,
 - Jasmin, Jest, enzyme
 - Sinatra, Capybara
