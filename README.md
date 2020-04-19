@@ -23,6 +23,7 @@ Now creating apps, debugging, finding solutions and stylings are my new tools.
 - Sinatra, Capybara
 - PostGres, Mysql
 - Travic CI, CodeClimate & Heroku
+- Cpanel, Domain and hosting management 
 
 #### Web/UI design Skill
 
@@ -73,8 +74,7 @@ An insightful, hands-on & intensive course on User Experience design , from UX r
 - Wireframes 
 - Prototyping
 - Branding and producing print materials
--Cpanel
--Domain and hosting setup and maintain
+
 
 **Lorca Digital Photography Studio** (2000 - 2003)
 *web/graphic designer*
