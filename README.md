@@ -24,10 +24,10 @@ Now creating apps, debugging, finding solutions and stylings are my new tools.
 
 #### Web/UI design Skill
 
--Adobe XD /Figma /Invision
--Adobe photoshop
--Adobe Illustrator
--Adobe Indesign
+- Adobe XD /Figma /Invision
+- Adobe photoshop
+- Adobe Illustrator
+- Adobe Indesign
 
 ## <a name="projects">Dev Projects</a>
 
