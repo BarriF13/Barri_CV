@@ -9,8 +9,26 @@
 
 I am a passionate software developer with the background in graphic design. I used to design websites with Adobe dreamweaver and CMS platform such as wordpress and wix, and eventually had to get into coding side of it to create more than they offer. That's why I decided by learning how to code push my limitations away.
 
-As soon as I started learning to code I found myself excited and obsessed with it, so after 7 months of coding at home, I decided to join Makers academy to step up my challenges and knowledge.
+As soon as I started learning to code I found myself excited and obsessed with it, so after 7 months of coding at home, I decided to join MakersAcademy to step up my challenges and knowledge.
 Now creating apps, debugging, finding solutions and stylings are my new tools.
+
+## <a name="skills">Tech Skills</a>
+- Javascript
+- Ruby
+- Rails
+- CSS
+- HTML
+-React
+-Bootstrap
+-Tools I also used: Rspec, Jasmin, Jest, enzyme, Sinatra, Capybara, PostGres, Travic CI, CodeClimate & Heroku
+
+#### Web/UI design Skill
+-Adobe XD
+-Adobe photoshop
+-Adobe Illustrator
+-Adobe Indesign
+-Figma
+-Invision
 
 ## <a name="projects">Dev Projects</a>
 
@@ -22,15 +40,16 @@ Now creating apps, debugging, finding solutions and stylings are my new tools.
 
 #### Makers Academy (December 2019 to April 2020)
 
-Makers Academy is a 12-week computer programming bootcamp in London, focused on teaching the fundamentals of software engineering .
+Makers Academy is an  intensive 16-week full stack web development bootcamp in London, focused on teaching the fundamentals of software engineering .
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec, Jasmine, jest, enzyme
 - Git , github
 
 #### School of UX - 2019
+An insightful, hands-on & intensive course on User Experience design run by a professional UX designer with 15+ years of experience that covers an entire UX design process: from UX research, user testing and analytics to wireframing, prototyping and creating portfolio.
 - UX / UI design
 - Prototyping
 - HTML, CSS
@@ -65,23 +84,7 @@ Makers Academy is a 12-week computer programming bootcamp in London, focused on 
 - My first time Working side by side with a web developer, I learnt about HTML, CSS, Javascript. 
 - I used to design websites with Adobe dreamweaver 
 
-## <a name="skills">Tech Skills</a>
-- Javascript
-- Ruby
-- Rails
-- CSS
-- HTML
--React
--Bootstrap
--Tools I also used: Rspec, Jasmin, Jest, enzyme, Sinatra, Capybara, PostGres, Travic CI, CodeClimate & Heroku
 
-#### Web/UI design Skill
--Adobe XD
--Adobe photoshop
--Adobe Illustrator
--Adobe Indesign
--Figma
--Invision
 
 ## <a name="interests">Interests</a>
 
