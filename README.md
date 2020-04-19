@@ -13,10 +13,10 @@ As soon as I started learning to code I found myself excited and obsessed with i
 Now creating apps, debugging, finding solutions and stylings are my new tools.
 
 ## <a name="skills">Tech Skills</a>
-- Javascript / React
+- Javascript / React / Node.ja
 - Ruby / Rails
--HTML / CSS/ Bootstrap
-Tools I also used: 
+-HTML / CSS/ Bootstrap 
+#### Tools I also used:
 - Rspec,
 - Jasmin, Jest, enzyme
 - Sinatra, Capybara
