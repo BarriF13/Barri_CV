@@ -13,22 +13,20 @@ As soon as I started learning to code I found myself excited and obsessed with i
 Now creating apps, debugging, finding solutions and stylings are my new tools.
 
 ## <a name="skills">Tech Skills</a>
-- Javascript
-- Ruby
-- Rails
-- CSS
-- HTML
--React
--Bootstrap
--Tools I also used: Rspec, Jasmin, Jest, enzyme, Sinatra, Capybara, PostGres, Travic CI, CodeClimate & Heroku
+- Javascript / React
+- Ruby / Rails
+-HTML / CSS/ Bootstrap
+  Tools I also used: 
+- Rspec,
+- Jasmin, Jest, enzyme
+- Sinatra, Capybara
+- PostGres, Travic CI, CodeClimate & Heroku
 
 #### Web/UI design Skill
--Adobe XD
+-Adobe XD /Figma /Invision
 -Adobe photoshop
 -Adobe Illustrator
 -Adobe Indesign
--Figma
--Invision
 
 ## <a name="projects">Dev Projects</a>
 
@@ -49,10 +47,11 @@ Makers Academy is an  intensive 16-week full stack web development bootcamp in L
 - Git , github
 
 #### School of UX - 2019
-An insightful, hands-on & intensive course on User Experience design run by a professional UX designer with 15+ years of experience that covers an entire UX design process: from UX research, user testing and analytics to wireframing, prototyping and creating portfolio.
-- UX / UI design
-- Prototyping
-- HTML, CSS
+An insightful, hands-on & intensive course on User Experience design , from UX research, user testing and analytics to wireframing, prototyping.
+
+- UX design : mapping user journeys , creating information architecture, sitemaps, etc.
+- UI design : accessibility, typography, responsive layout, etc.
+- Prototyping & wireframing : structuring content, creating interactive layout , testing, etc.
 
 #### BA in Graphic Design -2002
 - Branding
