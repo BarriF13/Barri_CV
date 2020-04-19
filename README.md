@@ -15,12 +15,14 @@ Now creating apps, debugging, finding solutions and stylings are my new tools.
 ## <a name="skills">Tech Skills</a>
 - Javascript / React / Node.ja
 - Ruby / Rails
--HTML / CSS/ Bootstrap 
+- HTML / CSS / Bootstrap 
+
 #### Tools I also used:
 - Rspec,
 - Jasmin, Jest, enzyme
 - Sinatra, Capybara
-- PostGres, Travic CI, CodeClimate & Heroku
+- PostGres, Mysql
+- Travic CI, CodeClimate & Heroku
 
 #### Web/UI design Skill
 
