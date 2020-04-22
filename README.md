@@ -7,7 +7,7 @@
 
 ## <a name="about_me">About me</a>
 
-I am a passionate software developer with the background in graphic design. I used to design websites with Adobe dreamweaver and CMS platform such as wordpress and wix but I became frustrated with the restrictions of the the platforms and started to look into how to write my own custom code.
+I am a passionate software developer with the background in graphic design. I used to design websites with Adobe dreamweaver and CMS platform such as wordpress and wix but I became frustrated with the restrictions of the platforms and started to look into how to write my own custom code.
 
 As soon as I started learning to code I found myself excited and obsessed with it, so after 7 months of self learning code , I decided to join MakersAcademy to improve my challenges and knowledge.
 Now creating apps, debugging, finding solutions and stylings are my new tools.
