@@ -27,7 +27,7 @@ Now creating apps, debugging, finding solutions and stylings are my new tools.
 
 #### Web/UI design Skill
 
-- Adobe XD /Figma /Invision
+- Adobe XD / Figma / Invision
 - Adobe photoshop
 - Adobe Illustrator
 - Adobe Indesign
@@ -69,11 +69,17 @@ An insightful, hands-on & intensive course on User Experience design , from UX r
 
 **B design studio** (2004 - today)    
 *Freelance graphic/web designer*  
-- Responsive webdesign with CMS platform
-- UI Design
-- Wireframes 
-- Prototyping
-- Branding and producing print materials
+
+##### As a freelance designer I've been approached by different type of clients(freelancers , small or big businesses)
+ Mostly needed the identity and branding. After designing their brand, One of the key products category that I have always point them to, was the importance of their digital products presents in the cyber world.
+- I had to make sure that their digital products are up and running and tick certain boxes of the latest trend in industry, for example their website : 
+- Being  Responsive , fast loading, optimized for  search engine and 
+- Tested for the best possible user experience 
+- Designed with high quality of user interface 
+- All product - print or digital- follow the same branding (protocols ? prototype?)
+- Working with limited budgets for individual and freelance clients and still deliver market standard quality products.
+- Co-oporate with different teams such as photographers , and make sure we are following the same goals
+- Finding smart solutions for any technical ot financial problems
 
 
 **Lorca Digital Photography Studio** (2000 - 2003)
