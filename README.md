@@ -113,10 +113,10 @@ Working for one of the biggest photography studio as a junior designer helped me
 - Learn how to work within a big team for the same goal
 - Manage my own reponsibilities , work under pressure and meet deadlines 
 - Achieve set design skills and help photographers to produce better visual products
-- Talking to clients when the senior designer weren't available
+- Talking to clients when the senior designers weren't available
 - Branding and producing print materials
 - Producing high quality digital photoes
--  Helping other designers to convert their print products to digital as they didn't know the technology then
+- Helping other designers to convert their print products to digital as they didn't know the technology then
 
 ### **HV Substations Development Co.** (2000 - 2003)
 
