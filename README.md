@@ -84,7 +84,7 @@ An insightful, hands-on & intensive course on User Experience design , from UX r
 
   
 
-**B design studio** (2004 - today)
+### **B design studio** (2004 - today)
 
 #### *Freelance graphic/web designer*
 Form the day I stepped in the university till today I am working as a freelance designer. I've been approached by different type of clients such as freelancers , small or big businesses.
@@ -105,7 +105,7 @@ Also as a freelancer I was always chanllenged to :
 - Finding smart solutions for any technical ot financial obstacle. 
   
 
-**Lorca Digital Photography Studio** (2000 - 2003)
+### **Lorca Digital Photography Studio** (2000 - 2003)
 
 #### *web/graphic designer  ( in house)*
 
@@ -118,7 +118,7 @@ Working for one of the biggest photography studio as a junior designer helped me
 - Producing high quality digital photoes
 -  Helping other designers to convert their print products to digital as they didn't know the technology then
 
-**HV Substations Development Co.** (2000 - 2003)
+### **HV Substations Development Co.** (2000 - 2003)
 
 #### *In house part time Web designer*
 
