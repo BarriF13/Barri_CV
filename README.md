@@ -51,11 +51,38 @@ Makers Academy is an  intensive 16-week full stack web development bootcamp in L
 - Git , github
 
 #### School of UX - 2019
+
 An insightful, hands-on & intensive course on User Experience design , from UX research, user testing and analytics to wireframing, prototyping.
 
+  
+
 - UX design : mapping user journeys , creating information architecture, sitemaps, etc.
+
 - UI design : accessibility, typography, responsive layout, etc.
+
 - Prototyping & wireframing : structuring content, creating interactive layout , testing, etc.
+
+  
+
+#### BA in Graphic Design -2002
+
+- Branding
+
+- Logo design
+
+- Photography
+
+- Color compositions and layouts
+
+- Packaging
+
+- Drawing
+
+  
+
+## <a name="experience">Experience</a>
+
+  
 
 **B design studio** (2004 - today)
 
