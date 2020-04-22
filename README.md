@@ -102,7 +102,7 @@ As their designer and semi developer , I had to make sure that their digital pro
 Also as a freelancer I was always chanllenged to :
 - work with limited budgets for individual or freelance clients and still deliver market standard quality products.
 - Co-oporate with different teams such as photographers , and make sure we are following the same goals. 
-- Finding smart solutions for any technical ot financial obstacle. 
+- Finding smart solutions for any technical or financial obstacle. 
   
 
 ### **Lorca Digital Photography Studio** (2000 - 2003)
