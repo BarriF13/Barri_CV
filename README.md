@@ -57,44 +57,59 @@ An insightful, hands-on & intensive course on User Experience design , from UX r
 - UI design : accessibility, typography, responsive layout, etc.
 - Prototyping & wireframing : structuring content, creating interactive layout , testing, etc.
 
-#### BA in Graphic Design -2002
-- Branding
-- Logo design
-- Photography
-- Color compositions and layouts
-- Packaging
-- Drawing
+**B design studio** (2004 - today)
 
-## <a name="experience">Experience</a>
+#### *Freelance graphic/web designer*
+Form the day I stepped in the university till today I am working as a freelance designer. I've been approached by different type of clients such as freelancers , small or big businesses.
 
-**B design studio** (2004 - today)    
-*Freelance graphic/web designer*  
+Mostly needed new identity and brand design.  After that step,  I have always point them to the importance of the digital products and its presents in the cyber world.
+As their designer and semi developer , I had to make sure that their digital products are up and running and tick certain boxes of the latest trend inthe industry, for example  on their website :
+- Being Responsive , fast loading , optimized for search engine  and etc.
 
-##### As a freelance designer I've been approached by different type of clients(freelancers , small or big businesses)
- Mostly needed the identity and branding. After designing their brand, One of the key products category that I have always point them to, was the importance of their digital products presents in the cyber world.
-- I had to make sure that their digital products are up and running and tick certain boxes of the latest trend in industry, for example their website : 
-- Being  Responsive , fast loading, optimized for  search engine and 
-- Tested for the best possible user experience 
-- Designed with high quality of user interface 
+- Tested for the best possible user experience
+
+- Designed with high quality of user interface standarts
+
 - All product - print or digital- follow the same branding (protocols ? prototype?)
-- Working with limited budgets for individual and freelance clients and still deliver market standard quality products.
-- Co-oporate with different teams such as photographers , and make sure we are following the same goals
-- Finding smart solutions for any technical ot financial problems
 
+Also as a freelancer I was always chanllenged to :
+- work with limited budgets for individual or freelance clients and still deliver market standard quality products.
+- Co-oporate with different teams such as photographers , and make sure we are following the same goals. 
+- Finding smart solutions for any technical ot financial obstacle. 
+  
 
 **Lorca Digital Photography Studio** (2000 - 2003)
-*web/graphic designer*
-- Set design for photoes then use them for website and other marketing materials
+
+#### *web/graphic designer  ( in house)*
+
+Working for one of the biggest photography studio as a junior designer helped me to achieve :
+- Learn how to work within a big team for the same goal
+- Manage my own reponsibilities , work under pressure and meet deadlines 
+- Achieve set design skills and help photographers to produce better visual products
+- Talking to clients when the senior designer weren't available
 - Branding and producing print materials
+- Producing high quality digital photoes
+-  Helping other designers to convert their print products to digital as they didn't know the technology then
 
 **HV Substations Development Co.** (2000 - 2003)
-*In house part time Web designer*  
-- My first time Working side by side with a web developer, I learnt about HTML, CSS, Javascript. 
-- I used to design websites with Adobe dreamweaver 
 
+#### *In house part time Web designer*
 
+My first role as a web designer, working side by side with a web developer, I learnt about HTML, CSS, Javascript. Our approched to webdesign was very simple compare to now. I used to design the pages fully in photoshop.
+Now that I look back I can see, I insticaly was designing on UX/UI bases by implying these points :
+- How users going to feel when they approch the site 
+-  What messages we like to deliver to the them
+- Is it easy for them to access the information they are looking for
+- What about accessibility
+and many more.
+
+  
+  
+  
 
 ## <a name="interests">Interests</a>
 
-Art, Dance, Gym, game, sewing, Hike, DIY
+  
+
+Art, Ballroom Dances, Gym, game, sewing, Hike, DIY
 
