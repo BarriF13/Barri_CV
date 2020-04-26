@@ -34,7 +34,7 @@ Now creating apps, debugging, finding solutions and stylings are my new tools.
 
 | Project   | Description | Link | Technologies |
 |---        |---          |---   |---           |
-| [mnemonic](https://github.com/BarriF13/mnemonic) | My final group project at Makers! A game app for training your short term memory | https://mnemonic.herokuapp.com/ | Javascript, React, CSS, HTML |
+| [mnemonic](https://github.com/BarriF13/mnemonic) | My final group project at Makers! A game app for training your short term memory | http://mnemonic-game.herokuapp.com/ | Javascript, React, CSS, HTML |
 
 ## <a name="education">Education</a>
 
