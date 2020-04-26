@@ -16,10 +16,8 @@ Now creating apps, debugging, finding solutions and stylings are my new tools.
 - Javascript / React / Node.js
 - Ruby / Rails
 - HTML / CSS / Bootstrap 
-
-#### Tools I also used:
 - RSpec
-- Jasmin, Jest, Enzyme
+- Jasmin / Jest, Enzyme
 - Sinatra, Capybara
 - PostgreSQL, MySQL
 - Travis CI, Code Climate & Heroku
