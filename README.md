@@ -103,7 +103,7 @@ Also as a freelancer, I was always challenged to :
 
 #### *web/graphic designer  ( in house)*
 
-Working for one of the biggest photography studio as a junior designer helped me:
+Working for one of the biggest photography studios as a junior designer helped me:
 - Learn how to work within a big team towards the same goal
 - Manage my responsibilities, work under pressure and meet deadlines 
 - Achieve set design skills and help photographers to produce better visual products
