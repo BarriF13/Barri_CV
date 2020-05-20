@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(114, 155, 168);
+  color: #fff;
+}
+
+h3 {
+  color: dimgrey;
+}
+
+h3, a {
+  color: dimgrey;
+}
+
+a:link {
+  color: dimgrey;
+}

@@ -1,5 +1,7 @@
-# Barri Faryad #
+<div align="center" id="logo"><img src="./images/logo.jpg" alt=""width="100" height="100"></div>
+<h1 align="center">Barri Faryad</h1>
 <div align="center">
+
 
   [About me](#about_me) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Skills](#skills) | [Interests](#interests)
 
@@ -7,7 +9,7 @@
 
 ## <a name="about_me">About me</a>
 
-I am a passionate software developer with a background in graphic design. I have experience designing websites with Adobe Dreamweaver and CMS platforms such as WordPress and Wix. After mastering the basics, I then started learning to code to overcome the restrictions of the platforms.
+I am a full stack software developer, passionate for Front-end development with a background in graphic design. I have experience designing websites with Adobe Dreamweaver and CMS platforms such as WordPress and Wix. After mastering the basics, I then started learning to code to overcome the restrictions of the platforms.
 As soon as I started learning to code I found myself excited and engaged with it. So after 7 months of teaching myself to code, I decided to join Makers Academy to improve my knowledge and challenge myself. Now creating apps, debugging, finding solutions and stylings are my new tools.
 
 ## <a name="skills">Tech Skills</a>
@@ -30,9 +32,10 @@ As soon as I started learning to code I found myself excited and engaged with it
 
 ## <a name="projects">Dev Projects</a>
 
-| Project   | Description | Link | Technologies |
-|---        |---          |---   |---           |
-| [mnemonic](https://github.com/BarriF13/mnemonic) | My final group project at Makers! A game app for training your short term memory | http://mnemonic-game.herokuapp.com/ | Javascript, React, CSS, HTML |
+
+| Project <img width=100/>  | View <img width=200/> | Description <img width=200/>| Link <img width=200/>| Technologies<img width=80/> |
+|---     |---   |---          |---   |---           |
+| [mnemonic](https://github.com/BarriF13/mnemonic)|[<img src="images/mnemonic.png" width="200">](http://mnemonic-game.herokuapp.com/) | My final group project at Makers! A game app for training your short term memory | http://mnemonic-game.herokuapp.com/ | Javascript, React, CSS, HTML |
 
 ## <a name="education">Education</a>
 
@@ -127,3 +130,4 @@ In my first role as a web designer, working side by side with a web developer, I
 
 Art, ballroom dancing, going to the gym, computer games, sewing, hiking, DIY
 
+<link rel="stylesheet" href="images/style.css">
