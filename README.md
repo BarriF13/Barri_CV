@@ -40,6 +40,7 @@ As soon as I started learning to code I found myself excited and engaged with it
 |---     |---   |---          |---   |---    |---        |
 | [mnemonic](https://github.com/BarriF13/mnemonic)|[<img src="images/mnemonic.png" width="400">](http://mnemonic-game.herokuapp.com/) | My final group project at Makers! A game app for training your short term memory | http://mnemonic-game.herokuapp.com/ | Javascript, React, CSS, HTML, Adobe photoshop | Finalized |
 | [Artist portfolio](https://royakhalili.com/)|[<img src="images/roya.png" width="400">](https://royakhalili.com/) | I have designed and built an online portfolio for one of my clients to showcase her arts. I am managing the domain, hosting and maintenance of the site.  | https://royakhalili.com/ | Wordpress, CSS, HTML, cPanel, Adobe photoshop | Maintenance|
+| [Freedom2dance](https://www.freedom-2-dance.co.uk/)|[<img src="images/freedom2dance.png" width="400">](https://www.freedom-2-dance.co.uk/) | I have designed and built this site for Freedom2Dance as part of their digital products. I have also update their brand and designed their print and digital materials.|https://www.freedom-2-dance.co.uk/| WIX, CSS, HTML, Adobe photoshop | Maintenance|
 
 ## <a name="education">Education</a>
 
