@@ -9,7 +9,10 @@
 
 ## <a name="about_me">About me</a>
 
-I am a full stack software developer, passionate for Front-end development with a background in graphic design. I have experience designing websites with Adobe Dreamweaver and CMS platforms such as WordPress and Wix. After mastering the basics, I then started learning to code to overcome the restrictions of the platforms.
+I am a full stack software developer, passionate for Front-end development with a background in graphic design. 
+
+I have experience designing websites with Adobe Dreamweaver and CMS platforms such as WordPress and Wix. After mastering the basics, I then started learning to code to overcome the restrictions of the platforms.
+
 As soon as I started learning to code I found myself excited and engaged with it. So after 7 months of teaching myself to code, I decided to join Makers Academy to improve my knowledge and challenge myself. Now creating apps, debugging, finding solutions and stylings are my new tools.
 
 ## <a name="skills">Tech Skills</a>
@@ -33,9 +36,10 @@ As soon as I started learning to code I found myself excited and engaged with it
 ## <a name="projects">Dev Projects</a>
 
 
-| Project <img width=100/>  | View <img width=200/> | Description <img width=200/>| Link <img width=200/>| Technologies<img width=80/> |
-|---     |---   |---          |---   |---           |
-| [mnemonic](https://github.com/BarriF13/mnemonic)|[<img src="images/mnemonic.png" width="200">](http://mnemonic-game.herokuapp.com/) | My final group project at Makers! A game app for training your short term memory | http://mnemonic-game.herokuapp.com/ | Javascript, React, CSS, HTML |
+| Project <img width=100/>  | View <img width=200/> | Description <img width=200/>| Link <img width=200/>| Technologies<img width=80/> | Status <img width=200/> | 
+|---     |---   |---          |---   |---    |---        |
+| [mnemonic](https://github.com/BarriF13/mnemonic)|[<img src="images/mnemonic.png" width="200">](http://mnemonic-game.herokuapp.com/) | My final group project at Makers! A game app for training your short term memory | http://mnemonic-game.herokuapp.com/ | Javascript, React, CSS, HTML, Adobe photoshop | Finalized |
+| [Artist portfolio](https://royakhalili.com/)|[<img src="images/roya.png" width="300">](https://royakhalili.com/) | I have designed and built an online portfolio for one of my clients to showcase her arts. I am managing the domain, hosting and maintenance of the site.  | https://royakhalili.com/ | Wordpress, CSS, HTML, cPanel, Adobe photoshop | Maintenance|
 
 ## <a name="education">Education</a>
 
