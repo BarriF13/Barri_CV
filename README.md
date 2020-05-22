@@ -36,11 +36,13 @@ As soon as I started learning to code I found myself excited and engaged with it
 ## <a name="projects">Dev Projects</a>
 
 
-| Project <img width=100/>  | View <img width=400/> | Description <img width=200/>| Link <img width=200/>| Technologies<img width=80/> | Status <img width=200/> | 
+| Project <img width=100/>  | View <img width=400/> | Description <img width=200/>| Links <img width=200/>| Technologies<img width=80/> | Status <img width=200/> | 
 |---     |---   |---          |---   |---    |---        |
-| [mnemonic](https://github.com/BarriF13/mnemonic)|[<img src="images/mnemonic.png" width="400">](http://mnemonic-game.herokuapp.com/) | My final group project at Makers! A game app for training your short term memory | http://mnemonic-game.herokuapp.com/ | Javascript, React, CSS, HTML, Adobe photoshop | Finalized |
+| [Mnemonic](https://mnemonic-game.herokuapp.com/)|[<img src="images/mnemonic.png" width="400">](http://mnemonic-game.herokuapp.com/) | My final group project at Makers! A game app for training your short term memory | To project:<br> http://mnemonic-game.herokuapp.com/<br> To code: https://github.com/BarriF13/mnemonic| Javascript, React, CSS, HTML, Adobe photoshop | Finalized |
 | [Artist portfolio](https://royakhalili.com/)|[<img src="images/roya.png" width="400">](https://royakhalili.com/) | I have designed and built an online portfolio for one of my clients to showcase her arts. I am managing the domain, hosting and maintenance of the site.  | https://royakhalili.com/ | Wordpress, CSS, HTML, cPanel, Adobe photoshop | Maintenance|
 | [Freedom2dance](https://www.freedom-2-dance.co.uk/)|[<img src="images/freedom2dance.png" width="400">](https://www.freedom-2-dance.co.uk/) | I have designed and built this site for Freedom2Dance as part of their digital products. I have also update their brand and designed their print and digital materials.|https://www.freedom-2-dance.co.uk/| WIX, CSS, HTML, Adobe photoshop | Maintenance|
+| [CSS Collection](https://css-styles-demo.netlify.app/)|[<img src="images/CSScollection.png" width="400">](https://css-styles-demo.netlify.app/) | CSS collection is a side project that I do for mastering CSS. Also I use this repo as one of my CSS resources. | To project:<br>https://css-styles-demo.netlify.app/<br> To code: https://github.com/BarriF13/CSS-animation | CSS, HTML, Netlify, Adobe photoshop | Ongoing project|
+
 
 ## <a name="education">Education</a>
 
