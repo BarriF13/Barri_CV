@@ -36,10 +36,10 @@ As soon as I started learning to code I found myself excited and engaged with it
 ## <a name="projects">Dev Projects</a>
 
 
-| Project <img width=100/>  | View <img width=200/> | Description <img width=200/>| Link <img width=200/>| Technologies<img width=80/> | Status <img width=200/> | 
+| Project <img width=100/>  | View <img width=400/> | Description <img width=200/>| Link <img width=200/>| Technologies<img width=80/> | Status <img width=200/> | 
 |---     |---   |---          |---   |---    |---        |
-| [mnemonic](https://github.com/BarriF13/mnemonic)|[<img src="images/mnemonic.png" width="200">](http://mnemonic-game.herokuapp.com/) | My final group project at Makers! A game app for training your short term memory | http://mnemonic-game.herokuapp.com/ | Javascript, React, CSS, HTML, Adobe photoshop | Finalized |
-| [Artist portfolio](https://royakhalili.com/)|[<img src="images/roya.png" width="300">](https://royakhalili.com/) | I have designed and built an online portfolio for one of my clients to showcase her arts. I am managing the domain, hosting and maintenance of the site.  | https://royakhalili.com/ | Wordpress, CSS, HTML, cPanel, Adobe photoshop | Maintenance|
+| [mnemonic](https://github.com/BarriF13/mnemonic)|[<img src="images/mnemonic.png" width="400">](http://mnemonic-game.herokuapp.com/) | My final group project at Makers! A game app for training your short term memory | http://mnemonic-game.herokuapp.com/ | Javascript, React, CSS, HTML, Adobe photoshop | Finalized |
+| [Artist portfolio](https://royakhalili.com/)|[<img src="images/roya.png" width="400">](https://royakhalili.com/) | I have designed and built an online portfolio for one of my clients to showcase her arts. I am managing the domain, hosting and maintenance of the site.  | https://royakhalili.com/ | Wordpress, CSS, HTML, cPanel, Adobe photoshop | Maintenance|
 
 ## <a name="education">Education</a>
 
