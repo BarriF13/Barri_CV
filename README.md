@@ -1,4 +1,4 @@
-<div align="center" id="logo"><img src="./images/logo.jpg" alt=""width="100" height="100"></div>
+<div align="center" id="logo"><img src="./images/logo.jpg" alt=""width="100" height="100" href="https://bdesignstudio.co.uk/"></div>
 <h1 align="center">Barri Faryad</h1>
 <div align="center">
 
