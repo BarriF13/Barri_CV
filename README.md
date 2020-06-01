@@ -93,7 +93,7 @@ An insightful, hands-on & intensive course on User Experience design:
 #### *Freelance graphic/web designer*
 Since University I have worked as a freelance designer. I've been selected to do projects for different types of clients such as freelancers and businesses of various sizes.
 For each, I have helped improve their identity and brand design. I have also always highlighted to them the importance of digital products and their presence in the cyber world.
-As their designer and digital adviser, I had to make sure their digital products are up and running and are in line with the latest trends in the industry, for example on their website :
+As their designer and digital adviser, I had to make sure their digital products are up and running and are in line with the latest trends in the industry, for example on their website:
 - Being responsive, fast loading, optimized for search engines, etc.
 
 - Tested for the best possible user experience.
@@ -102,8 +102,8 @@ As their designer and digital adviser, I had to make sure their digital products
 
 - All product - print or digital- follow the same branding prototype.
 
-Also as a freelancer, I was always challenged to :
-- work with limited budgets for individual or freelance clients and still deliver market standard quality products.
+Also as a freelancer, I was always challenged to:
+- Work with limited budgets for individual or freelance clients and still deliver market standard quality products.
 - Co-operate with different teams such as photographers, and making sure we are following the same goals.
 - Finding smart solutions for any technical or financial obstacle.
   
@@ -113,13 +113,13 @@ Also as a freelancer, I was always challenged to :
 #### *web/graphic designer  ( in house)*
 
 Working for one of the biggest photography studios as a junior designer helped me:
-- Learn how to work within a big team towards the same goal
-- Manage my responsibilities, work under pressure and meet deadlines 
-- Achieve set design skills and help photographers to produce better visual products
-- Talking to clients when the senior designers weren't available
-- Branding and producing print materials
-- Producing high-quality digital photos
-- Helping other designers to convert their print products to digital format
+- Learn how to work within a big team towards the same goal.
+- Manage my responsibilities, work under pressure and meet deadlines.
+- Achieve set design skills and help photographers to produce better visual products.
+- Talking to clients when the senior designers weren't available.
+- Branding and producing print materials.
+- Producing high-quality digital photos.
+- Helping other designers to convert their print products to digital format.
 ### **HV Substations Development Co.** (2000 - 2003)
 
 #### *In house part-time Web designer*
