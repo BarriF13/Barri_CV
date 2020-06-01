@@ -124,7 +124,7 @@ Working for one of the biggest photography studios as a junior designer helped m
 
 #### *In house part-time Web designer*
 
-In my first role as a web designer, working side by side with a web developer, I learned about HTML, CSS, Javascript. Our approach to web design was very simple compared to now. I showed sensitivity when designing on UX/UI bases by addressing these points :
+In my first role as a web designer, working side by side with a web developer, I learned about HTML, CSS, Javascript. Our approach to web design was very simple compared to now. I showed sensitivity when designing on UX/UI bases by addressing these points:
 - How users feel when they approach the site.
 - What messages we deliver to them.
 - How easy it is for them to access the information they are looking for.
