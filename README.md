@@ -1,9 +1,9 @@
-<div align="center" id="logo"><img src="./images/logo.jpg" alt=""width="100" height="100" href="https://bdesignstudio.co.uk/"></div>
+<div align="center" id="logo"><a href="https://bdesignstudio.co.uk/"><img src="./images/logo.jpg" style="border:none;" alt=""width="100" height="100" /></div>
 <h1 align="center">Barri Faryad</h1>
 <div align="center">
 
 
-  [About me](#about_me) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Skills](#skills) | [Interests](#interests)
+  [About me](#about_me) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Skills](#skills) | [Interests](#interests) | [website](https://bdesignstudio.co.uk/) 
 
   </div>
 
